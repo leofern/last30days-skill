@@ -1,0 +1,29 @@
+{
+  "domain": "AI marketing: advertising campaigns, content strategy, positioning, client acquisition",
+  "feeds": {
+    "category": null,
+    "sources": [
+      "hackernews",
+      "digg"
+    ],
+    "subreddits": [
+      "all"
+    ]
+  },
+  "generated_at": "2026-11-01T14:12:47.723829Z",
+  "kind": "discovery",
+  "outcome": "nothing-solid",
+  "results": [],
+  "schema_version": "1.1",
+  "source_status": {
+    "digg": "no-results",
+    "hackernews": "no-results",
+    "reddit": "skipped-unconfigured",
+    "x": "skipped-unconfigured"
+  },
+  "warnings": [
+    "No topic cleared the discovery confidence floor this window; reporting nothing solid instead of ranked noise."
+  ],
+  "weak_signal": null,
+  "window_days": 30
+}

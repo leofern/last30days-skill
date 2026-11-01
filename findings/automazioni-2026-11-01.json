@@ -1,0 +1,62 @@
+{
+  "domain": "AI business automation and agentic workflows for creative agencies: MCP, invoicing, email, KPI",
+  "feeds": {
+    "category": null,
+    "sources": [
+      "hackernews",
+      "digg"
+    ],
+    "subreddits": [
+      "all"
+    ]
+  },
+  "generated_at": "2026-11-01T14:12:56.716142Z",
+  "kind": "discovery",
+  "outcome": "ok",
+  "results": [
+    {
+      "command": "/last30days \"eMudhra SSL/TLS\"",
+      "corroboration_count": 1,
+      "covered": false,
+      "engagement": {
+        "hackernews": {
+          "comments": 1482,
+          "points": 3272
+        }
+      },
+      "evidence_urls": [
+        "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+        "https://support.apple.com/en-us/149555",
+        "https://emudhra.we-have-a-problem.com/",
+        "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+        "https://emudhra.com/en/press-release/emudhra-statement-distrust-global-tls-intermediate-root-ca"
+      ],
+      "last_surfaced": null,
+      "momentum": "building",
+      "podcast_angle": null,
+      "previously_surfaced_count": 0,
+      "rank": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "top_comment": null,
+      "topic": "eMudhra SSL/TLS",
+      "velocity_score": 1472.41,
+      "why_spiking": "6 evidence items on hackernews generated 4,754 native interactions. eMudhra to exit global SSL/TLS certificate business",
+      "x_article_angle": null
+    }
+  ],
+  "schema_version": "1.1",
+  "source_status": {
+    "digg": "no-results",
+    "hackernews": "ok",
+    "reddit": "skipped-unconfigured",
+    "x": "skipped-unconfigured"
+  },
+  "warnings": [
+    "Fewer than five topic clusters cleared the confidence floor this window.",
+    "Discovery evidence is single-source; configure Digg for broader confirmation."
+  ],
+  "weak_signal": null,
+  "window_days": 30
+}

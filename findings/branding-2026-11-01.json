@@ -1,0 +1,58 @@
+{
+  "domain": "AI branding, visual identity, and creative production: illustration, motion, video, product photography",
+  "feeds": {
+    "category": null,
+    "sources": [
+      "hackernews",
+      "digg"
+    ],
+    "subreddits": [
+      "all"
+    ]
+  },
+  "generated_at": "2026-11-01T14:12:42.727130Z",
+  "kind": "discovery",
+  "outcome": "ok",
+  "results": [
+    {
+      "command": "/last30days \"HackerTube YouTube HN\"",
+      "corroboration_count": 1,
+      "covered": false,
+      "engagement": {
+        "hackernews": {
+          "comments": 419,
+          "points": 1565
+        }
+      },
+      "evidence_urls": [
+        "https://karpathy.bearblog.dev/hacker-tube/"
+      ],
+      "last_surfaced": null,
+      "momentum": "new-this-week",
+      "podcast_angle": null,
+      "previously_surfaced_count": 0,
+      "rank": 1,
+      "sources": [
+        "hackernews"
+      ],
+      "top_comment": null,
+      "topic": "HackerTube YouTube HN",
+      "velocity_score": 2104.35,
+      "why_spiking": "1 evidence item on hackernews generated 1,984 native interactions. HackerTube: YouTube built from videos recommended by HN",
+      "x_article_angle": null
+    }
+  ],
+  "schema_version": "1.1",
+  "source_status": {
+    "digg": "no-results",
+    "hackernews": "ok",
+    "reddit": "skipped-unconfigured",
+    "x": "skipped-unconfigured"
+  },
+  "warnings": [
+    "Fewer than five topic clusters cleared the confidence floor this window.",
+    "Discovery evidence is single-source; configure Digg for broader confirmation."
+  ],
+  "weak_signal": null,
+  "window_days": 30
+}
